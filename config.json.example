@@ -1,0 +1,9 @@
+{
+    "command": "dipy_fit_dti",
+    "b0_threshold": 5,
+    "bvecs_tol"
+    "dwi": "testdata/data.nii.gz",
+    "bvals": "testdata/data.bvals",
+    "bvecs": "testdata/data.bvecs",
+    "mask": "testdata/mask.nii.gz",
+}
