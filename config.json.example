@@ -1,6 +1,5 @@
 {
-    "command": "dipy_fit_dki",
-    "b0_threshold": 5,
+    "b0_threshold": 0,
     "dwi": "testdata/data.nii.gz",
     "bvals": "testdata/data.bvals",
     "bvecs": "testdata/data.bvecs",
