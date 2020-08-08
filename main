@@ -11,7 +11,7 @@ set -x
 mkdir -p output
 chmod -R +w output
 
-dipy_fit_dki \
+time singularity exec -e docker://brainlife/dipy:1.1.1 dipy_fit_dki \
     --force \
     --out_dir output \
     --b0_threshold $(jq -r .b0_threshold config.json) \
