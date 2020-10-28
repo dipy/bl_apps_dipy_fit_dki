@@ -1,3 +1,6 @@
+[![Abcdspec-compliant](https://img.shields.io/badge/ABCD_Spec-v1.1-green.svg)](https://github.com/brain-life/abcd-spec)
+[![Run on Brainlife.io](https://img.shields.io/badge/Brainlife-bl.app.9-blue.svg)](https://doi.org/10.25663/bl.app.9)
+
 # DIPY Workflow Wrapper
 
 This is a Brainlife wrapper App for the [`dipy_fit_dki`](https://dipy.org/documentation/1.1.1./reference_cmd/dipy_fit_dki/) workflow. This single wrapper is exposed through an App registered on [brainlife.io](https://brainlife.io).
@@ -22,7 +25,9 @@ DIPY is publicly funded and for the sustainability of the project it is helpful 
 [![NSF-IIS-1636893](https://img.shields.io/badge/NSF_IIS-1636893-blue.svg)](https://nsf.gov/awardsearch/showAward?AWD_ID=1636893)
 
 ### Citations
-We kindly ask that you cite the articles in the following [link](https://dipy.org/documentation/1.1.1./reference_cmd/dipy_fit_dki/) when publishing papers and code using this code.
+We kindly ask that you cite the following article and the articles in the following [link](https://dipy.org/documentation/1.1.1./reference_cmd/dipy_fit_dki/) when publishing papers and code using this code.
+
+1. Avesani, P., McPherson, B., Hayashi, S. et al. The open diffusion data derivatives, brain data upcycling via integrated publishing of derivatives and reproducible open cloud services. Sci Data 6, 69 (2019). [https://doi.org/10.1038/s41597-019-0073-y](https://doi.org/10.1038/s41597-019-0073-y)
 
 ## Running the App
 
