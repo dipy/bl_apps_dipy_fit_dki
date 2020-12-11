@@ -1,4 +1,5 @@
-config.json
-testdata
-build.sh
 .idea
+output
+testdata
+config.json
+build.sh
